@@ -9,7 +9,7 @@ homework 'Python for dh'
 
 **№**|**Описание**|**Ссылка на работу**
   ---|:---:|---:
-**1**|-|*Код*
-**2**|-|*Код*
+**1**|-|*https://github.com/dariasotnikova/python-dh-hw/blob/master/HW1.ipynb*
+**2**|-|*https://github.com/dariasotnikova/python-dh-hw/blob/master/HW2.ipynb*
 **3**|-|*Код*
 
